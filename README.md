@@ -68,7 +68,7 @@ Project Organization
 - **Documentation:** Comprehensive documentation to guide you through the process of creating and implementing your custom environment.
 
 ### Getting Started:
-1. Clone this repository: `git clone https://github.com/your-username/GymCraft.git`
+1. Clone this repository: `git clone https://github.com/smn06/GymCraft.git`
 2. Set up your virtual environment: `virtualenv venv && source venv/bin/activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Explore the 'environments' folder to design your custom environment.
