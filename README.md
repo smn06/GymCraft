@@ -1,9 +1,9 @@
-GymCraft
-==============================
+## GymCraft: Custom Environment Design and RL Agent Implementation
 
-A short description of the project.
-
+### Overview:
+Welcome to GymCraft, a project that combines the flexibility of OpenAI Gym with the creativity of custom environment design and the power of reinforcement learning. In this project, we delve into the exciting realm of creating a tailored environment within OpenAI Gym and employing a reinforcement learning agent to conquer a specific task.
 Project Organization
+
 ------------
 
     ├── LICENSE
@@ -51,7 +51,32 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
+------------
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+
+### Project Goals:
+- **Custom Environment Design:** Unleash your imagination and design a unique environment that challenges the capabilities of reinforcement learning agents.
+- **Reinforcement Learning Agent Implementation:** Implement a sophisticated reinforcement learning agent that learns and adapts to the intricacies of your custom environment.
+- **Task-Specific Challenge:** Define a specific task for your agent to master within the custom environment, pushing the boundaries of what can be achieved through intelligent decision-making.
+
+### Features:
+- **Modularity:** Easily extend the project with additional custom environments and tasks.
+- **Experimentation:** Test various reinforcement learning algorithms to find the most effective solution for your custom environment.
+- **Documentation:** Comprehensive documentation to guide you through the process of creating and implementing your custom environment.
+
+### Getting Started:
+1. Clone this repository: `git clone https://github.com/your-username/GymCraft.git`
+2. Set up your virtual environment: `virtualenv venv && source venv/bin/activate`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Explore the 'environments' folder to design your custom environment.
+5. Implement your reinforcement learning agent in the 'agents' folder.
+6. Define the task specifics in the 'tasks' folder.
+7. Run your experiments and watch your agent conquer the challenges!
+
+
+### License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
